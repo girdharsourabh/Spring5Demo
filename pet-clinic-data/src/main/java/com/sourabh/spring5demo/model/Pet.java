@@ -1,4 +1,4 @@
-package com.sourabh.springdemo.model;
+package com.sourabh.spring5demo.model;
 
 import java.time.LocalDate;
 
